@@ -55,10 +55,51 @@ My Python learning journey through coding practice, exercises, and hands-on expe
   * Adavanced Slicing and Indexing
     
 - Mixing Things Up: Loops and Lists
+
+  * Iterating over Lists
+  * Nested Loops
+  * Iterations and Selections
+  * break and continue
+    
 - Functions
+
+  * Functions
+  * Function Arguments
+  * String Functions
+  * List Functions
+  * Custom Functions
+  * More on Custom Functions
+    
 - Mixing Things Up: Using Functions
+
+  * Functions and Lists
+  * Functions and Booleans
+  * Useful Built-in Functions
+    
 - Collection Types
+
+  * Tuples
+  * Working with Tuples
+  * Sets
+  * Dictionaries
+  * Working with Dictionaries
+  * List Comprehensions
+    
 - Error Handling
+
+  * Exceptions
+  * Exception Handling
+  * More on Exception Handling
+    
 - Functional programming
-- Object Oriented Prograamming 
+
+  * Introduction to Functional Programming
+  * Lambda Expressions
+  * map and filter
+  * args and kwargs
+  * Decorators
+    
+- Object Oriented Prograamming
+  
+  * Introduction to OOP
   
