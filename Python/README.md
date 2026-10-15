@@ -109,5 +109,5 @@ My Python learning journey through coding practice, exercises, and hands-on expe
 ## Course Completion Certificate 
 
   ### Python Developer 
-    (https://api2.sololearn.com/v2/certificates/CC-DVCRITA5/image/png?t=639276833735240820
-)
+  ![Python Developer Certificate](https://api2.sololearn.com/v2/certificates/CC-DVCRITA5/image/png?t=639276833735240820)
+    
