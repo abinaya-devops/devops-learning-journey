@@ -102,4 +102,11 @@ My Python learning journey through coding practice, exercises, and hands-on expe
 - Object Oriented Prograamming
   
   * Introduction to OOP
-  
+  * Inheritance
+  * Data Hiding
+  * Class and Static Methods
+
+##Course Completion Certificate 
+
+  ### Python Developer 
+    https://api2.sololearn.com/v2/certificates/CC-DVCRITA5/image/png?t=639276833735240820
