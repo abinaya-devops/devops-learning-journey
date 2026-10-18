@@ -133,6 +133,11 @@ My Python learning journey through coding practice, exercises, and hands-on expe
   * Python Basics Review (Review)
   * Python Basics Quiz (Quiz)
 
+- Install Python
+
+  * Installing Python and Running Code Locally (Theory)
+  * Python Installation Review (Review)
+
 - Classes and Objects
 
   * Classes and Objects (Theory)
