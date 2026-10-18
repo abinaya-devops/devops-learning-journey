@@ -111,3 +111,29 @@ My Python learning journey through coding practice, exercises, and hands-on expe
   ### Python Developer 
   ![Python Developer Certificate](https://api2.sololearn.com/v2/certificates/CC-DVCRITA5/image/png?t=639276833735240820)
     
+### freeCodeCamp
+
+- Python Basics
+
+  * Introduction to Python (theory)
+  * Understanding Variables and Data Types (Theory)
+  * Build a Report Card Printer (Workshop)
+  * Introduction to Strings (Theory)
+  * Build an Employee Profile Generator (Workshop)
+  * Numbers and Mathematical Operations (Theory)
+  * Build a Bill Splitter (Workshop)
+  * Booleans and Conditionals (Theory)
+  * Build a Movie Ticket Booking Calculator (Workshop)
+  * Build a Travel Weather Planner (Lab)
+  * Understanding Functions and Scopes (Theory)
+  * Build a Kitchen Inventory Tracker (Workshop)
+  * Build an Apply Discount Function (Lab)
+  * Build a Caesar Cipher (Workshop)
+  * Build an RPG Character (Lab)
+  * Python Basics Review (Review)
+  * Python Basics Quiz (Quiz)
+
+- Classes and Objects
+
+  * Classes and Objects (Theory)
+  * Build a Musical Instrument Inventory (Workshop)
